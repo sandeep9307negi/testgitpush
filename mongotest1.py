@@ -5,6 +5,16 @@ print(db)
 
 d = {
     'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
+}d = {
+    'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
+}d = {
+    'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
+}d = {
+    'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
+}d = {
+    'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
+}d = {
+    'name': 'sandeep' , 'emailid': 'negis9778' , 'surname': 'negi'
 }
 db1 = client['mongotest']
 coll = db1['test']
